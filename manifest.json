@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Go to Fun",
   "version": "1.0",
-  "description": "Redirects to Google",
+  "description": "Redirects to fun",
   "permissions": [
     "contextMenus",
     "tabs"
