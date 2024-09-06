@@ -1,6 +1,6 @@
 # ChromeExtensionKit
 
-🧰ChromeExtensionKit: A robust foundation for building Chrome
+🧰ChromeExtensionKit: A robust foundation for building Chrome Extension.
 
 ## 🚀 Getting Started
 
